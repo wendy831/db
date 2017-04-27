@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Lee Jae Yun\\AndroidStudioProjects\\MyApplicationtaas (2) (1) (2)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lee Jae Yun\\AndroidStudioProjects\\MyApplicationtaas (2) (1) (2)\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jslcs\\Desktop\\MyApplicationtaas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jslcs\\Desktop\\MyApplicationtaas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jslcs\\Desktop\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jslcs\\Desktop\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jslcs\\Desktop\\MyApplicationtaas (2) (1)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jslcs\\Desktop\\MyApplicationtaas (2) (1)\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lee Jae Yun\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lee Jae Yun\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

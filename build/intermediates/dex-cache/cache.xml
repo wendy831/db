@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_fdbe1049b02138bba21b582ccdbf88ae89e23e54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_1751df92045974f792f00b2a0a3bcfca0cabf22c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_0e48a6a3d4da66e22de24c4f89c15bc830418fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_5c5d3e442275d4eea94a744f84734448e04897f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_a7893f75e9cd5e537dff0178a4d726529af930ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_d67c23a998c04f695b536a23be0ede8353465c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_ba4227817ff8118320202ccebaef60f7217971f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\glide-3.6.0_51ed326b32b82111c205d9d9432793d0300cc4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_d7034762cb4d374317116f85ffba4458ece0492b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.tsengvn\Typekit\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bbf90181fea46399a9e3d0f4326883a505f71952">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.tsengvn-Typekit-1.0.0_c419d0383c8663e2a8a7f9c10e5f3465c290b82a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_c6062704889c845b0fa436227818372f65ad2bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_2378cd26af06192399bda3428f0e8eec17961768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_a62741992023855dd385f8fc1b2c923edec0c706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_152efbfa85492df8aa2c5efe6cb3405603de4343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_4b0a0c50a87bc234eb2224bebafa2031bf159b6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ed6f959c3a1d773bda39592fc31c9ce2e40b14cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_7dd7f2d4ca6830145ea544fb0c74ea22c7460b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_e799593265d57e3ad9d8aa7bdc560e8cafba200b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_52ad1bb0e1f68ca86e154ae5f328a15aab1329d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_c24829a3b18d33f4a33ced309ad41ab86546fbb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\gson-2.4_1c452d77ba264c2a0bba8885b611609b21f7e1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta3\8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2\converter-gson-2.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta3_bf52e4487b0326ffb51daf7ade117dd722fd3e9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_694c94307f01d3166b8ef6d87d37ac8126ab2e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\okio-1.8.0_64a60a3692812ecb6ac0ef1d5e46f7fe207bb967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.tsengvn\Typekit\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bbf90181fea46399a9e3d0f4326883a505f71952">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.tsengvn-Typekit-1.0.0_9649e1f1e4ed342858214613759acea0d7146ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\libs\com.skp.Tmap_1.0.46.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f806fc4e41760180faf84a6552b6ad557f4c0bb7">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.skp.Tmap_1.0.46_e13cdc2e7bd2fb4bcc76593d31e26e7cff2fff03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_89e5ec340a00a05b552844583298809e6827754b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_a09e8657c014e26454fad1452385e74d06ea4b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_1dfcd3df986ac68b8043f5889e6b51fd3fe8905f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_67b3cdcf9a43a7d764cf840ffa292121049c98c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\gson-2.7_29a8c1a8e61df1380ba3348097458c5b703195a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_4ed7d5c1f6422bb697192748ec66bcb06159aedb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_b9852d300f79871cd1e8e01b4c29c05bc6c3b7b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_6af63b3e17ceee548aefa33128cde15fcfe90934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_b89fe82aca49374622a54bdb1a8ecafdf454c304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_094967019d78a3c3fa782943013d98538d2c250e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_dc7b2da20af7f2541af78aae85721bc7acaa5cde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\libs\com.skp.Tmap_1.0.46.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f806fc4e41760180faf84a6552b6ad557f4c0bb7">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas (2) (1)\app\build\intermediates\pre-dexed\debug\com.skp.Tmap_1.0.46_a27661f385baa6907cf157e134cdfedf609b9a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jslcs\Desktop\MyApplicationtaas\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_233b75a4799ec692d5c5f5c9ef1fdecd2e78d9b6.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mapLayout"
+            android:orientation="vertical"
+            android:background="@android:color/white"
+            android:layout_weight="1"
+            >
+        </FrameLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:orientation="vertical">
+
+            <!--현위치-->
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab_nowLocation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/current_place"
+                app:backgroundTint="@color/orange"
+                app:fabSize="mini"/>
+
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab_findroad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:src="@drawable/mini_bike"
+                app:backgroundTint="@color/orange"
+                app:fabSize="mini" />
+
+
+            <!--경로 취소-->
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab_deletePath"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="100dp"
+                android:src="@drawable/map_clear"
+                app:backgroundTint="@color/orange"
+                app:fabSize="mini"/>
+
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab_taas"
+                android:layout_below="@+id/fab_deletePath"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="100dp"
+                android:src="@drawable/settings"
+                app:backgroundTint="@color/orange"
+                app:fabSize="mini"/>
+
+
+
+
+
+
+        </RelativeLayout>
+
+
+
+    </FrameLayout>
+
+</RelativeLayout>
